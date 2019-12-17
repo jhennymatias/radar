@@ -1,3 +1,7 @@
+##name: Jhennifer Cristine Matias
+##last update: 16/12/2019
+##e-mail: jhennifercristinematias@gmail.com
+
 #-*- coding:utf-8 -*-
 import cv2
 import numpy as np
