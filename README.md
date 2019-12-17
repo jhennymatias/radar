@@ -1,2 +1,4 @@
-# speedCars
-Projeto de visão computacional radar fotográfico estático
+# Radar Fotográfico estático
+
+Projeto para a disciplina de visão computacional. 
+Radar fotográfico estático
